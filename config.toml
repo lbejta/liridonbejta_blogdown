@@ -16,11 +16,12 @@ theme = "hugo-resume"
     # what sections
     showSkills = true
     showProjects = true
-    showOpensource = true
+    #showOpensource = true
     showPublications = true
     showExperience = true
     showEducation = true
     showCertificates = true
+    #showOpensource = true
 
     showQr = false
 
@@ -45,7 +46,7 @@ theme = "hugo-resume"
 [[param.handles]]
     name = "Twitter"
     link = "https://twitter.com"
-    icon = "Twitter"
+    icon = "twitter"
 
 #[[params.handles]]
     #name = "Keybase"
