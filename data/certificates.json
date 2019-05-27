@@ -1,0 +1,23 @@
+[
+  {
+      "grouping":"Marketing",
+      "skills":[ "Marketing Analytics","Google Analytics", "Nog meer toevoegen"]
+  },{
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "R","SQL","SPSS","git","HTML","CSS"]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"BOSH","link":"https://bosh.io"},
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"Google Cloud","link":"https://cloud.google.com"},
+          {"name":"Linux","link":"https://bosh.io"}
+      ]
+  }
+]

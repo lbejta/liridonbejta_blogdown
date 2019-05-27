@@ -8,4 +8,4 @@ sitemap:
   priority: 1
 title: Home
 ---
-<p>Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.</p>
+<p>Data and Marketing hier moet nog een persoonlijk stukje tekst komen. Dit doe je in content/_index.md</p>

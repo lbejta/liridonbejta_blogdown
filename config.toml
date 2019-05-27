@@ -16,10 +16,11 @@ theme = "hugo-resume"
     # what sections
     showSkills = true
     showProjects = true
-    showOpenSource = false
+    showOpensource = true
     showPublications = true
     showExperience = true
     showEducation = true
+    showCertificates = true
 
     showQr = false
 
