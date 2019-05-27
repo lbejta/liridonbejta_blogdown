@@ -1,10 +1,10 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+      "grouping":"Marketing",
+      "skills":[ "Marketing Analytics","Google Analytics", "Nog meer toevoegen"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+      "skills":[ "R","SQL","SPSS","git","HTML","CSS"]
   },
   {
       "grouping":"Platform Development & Administration",
