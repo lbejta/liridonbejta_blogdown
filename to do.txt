@@ -1,0 +1,4 @@
+Toevoegen disqus
+Categorieën aanmaken? 
+Icoontjes skills 
+Public ignore via git
