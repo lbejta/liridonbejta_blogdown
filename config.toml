@@ -1,57 +1,60 @@
 baseURL = "https://liridonbejta.netlify.com"
 languageCode = "en-us"
-title = "Eddie Webb"
+title = "L. Bejta"
 theme = "hugo-resume"
 
+[permalinks]
+  post = "/:year/:month/:slug/"
+
 [params]
-    firstName = "Liridon"
-    lastName = "Bejta"
-    address = "Trainee Data Science - Tilburg, Noord-Brabant"
-    title = "Trainee Data Science & Business Analytics"
-    #contactNote = "trainee Data Science"
-    profileImage = "img/Liri.jpg"
-    email = "liridonbejta@live.nl"
-    description = "Data and Marketing hier moet nog een persoonlijk stukje tekst komen"
-    favicon = "images/favicon.ico"
-    # what sections
-    showSkills = true
-    showProjects = true
-    #showOpensource = true
-    showPublications = true
-    showExperience = true
-    showEducation = true
-    showCertificates = true
-    #showOpensource = true
+  firstName = "Liridon"
+  lastName = "Bejta"
+  address = "Trainee Data Science - Tilburg, Noord-Brabant"
+  title = "Trainee Data Science & Business Analytics"
+  #contactNote = "trainee Data Science"
+  profileImage = "img/Liri.jpg"
+  email = "liridonbejta@live.nl"
+  description = "Data and Marketing hier moet nog een persoonlijk stukje tekst komen"
+  favicon = "images/favicon.ico"
+  # what sections
+  showSkills = true
+  showProjects = true
+  #showOpensource = true
+  showPublications = true
+  showExperience = true
+  showEducation = true
+  showCertificates = true
+  #showOpensource = true
 
-    showQr = false
-
-[[params.handles]]
-    name = "LinkedIn"
-    link = "https://www.linkedin.com/in/liridon-bejta-34637b119/"
-
+showQr = false
 
 [[params.handles]]
-    name = "GitHub"
-    link = "https://github.com/lbejta/"
+  name = "LinkedIn"
+  link = "https://www.linkedin.com/in/liridon-bejta-34637b119/"
+
+
+[[params.handles]]
+  name = "GitHub"
+  link = "https://github.com/lbejta/"
 
 #[[params.handles]]
-    #name = "Bitbucket"
-    #link = "https://bitbucket.org/eddiewebb/"
+  #name = "Bitbucket"
+  #link = "https://bitbucket.org/eddiewebb/"
 
 [[params.handles]]
-    name = "Stack Overflow"
-    link = "https://stackoverflow.com/users/9228703/liri"
-    icon = "stack-overflow"
-    
+  name = "Stack Overflow"
+  link = "https://stackoverflow.com/users/9228703/liri"
+  icon = "stack-overflow"
+
 [[param.handles]]
-    name = "Twitter"
-    link = "https://twitter.com"
-    icon = "twitter"
+  name = "Twitter"
+  link = "https://twitter.com"
+  icon = "twitter"
 
 #[[params.handles]]
-    #name = "Keybase"
-    #link = "https://keybase.io/edwardawebb"
-    #icon = "keybase"
+  #name = "Keybase"
+  #link = "https://keybase.io/edwardawebb"
+  #icon = "keybase"
 
 [params.google.analytics]
-    trackerID = "XX-123446-01"
+  trackerID = "XX-123446-01"
